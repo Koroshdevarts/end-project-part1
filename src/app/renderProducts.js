@@ -11,7 +11,7 @@ export function renderProducts(products, container) {
             "p-3",
             "rounded-lg",
             "text-center",
-            "w-35",            
+            "w-35",
             "m-2.5"
         );
 
